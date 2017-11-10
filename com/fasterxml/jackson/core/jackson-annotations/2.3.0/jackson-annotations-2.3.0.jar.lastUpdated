@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jan 18 11:18:51 GMT+08:00 2016
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-annotations\:jar\:2.3.0 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: D\:\\maven\\mvnRespo\\com\\fasterxml\\jackson\\core\\jackson-annotations\\2.3.0\\jackson-annotations-2.3.0.jar.ahcc2d8e014f51d40ac (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
+http\://central.maven.org/maven2/com/alibaba/dubbo/.lastUpdated=1453087129991
+http\://central.maven.org/maven2/com/alibaba/dubbo/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1453087131179
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1453087128279

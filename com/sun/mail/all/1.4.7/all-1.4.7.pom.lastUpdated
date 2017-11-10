@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 18 22:41:10 GMT+08:00 2017
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.sun.mail\:all\:pom\:1.4.7 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: null to http\://repo.thinkjoy.cn/content/groups/public/com/sun/mail/all/1.4.7/all-1.4.7.pom
+http\://central.maven.org/maven2/com/alibaba/dubbo/.lastUpdated=1489848069093
+http\://central.maven.org/maven2/com/alibaba/dubbo/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1489848070477
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1489848067339

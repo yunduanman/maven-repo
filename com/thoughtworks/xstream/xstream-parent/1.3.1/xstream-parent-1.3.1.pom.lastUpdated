@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Mar 22 15:42:53 GMT+08:00 2017
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.thoughtworks.xstream\:xstream-parent\:pom\:1.3.1 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: null to http\://repo.thinkjoy.cn/content/groups/public/com/thoughtworks/xstream/xstream-parent/1.3.1/xstream-parent-1.3.1.pom
+http\://repo1.maven.org/maven2/.lastUpdated=1490168573047
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1490168571291

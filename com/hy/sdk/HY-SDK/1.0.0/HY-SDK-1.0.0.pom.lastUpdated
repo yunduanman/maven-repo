@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 24 10:36:36 GMT+08:00 2017
+http\://central.maven.org/maven2/com/alibaba/dubbo/.lastUpdated=1490179295969
+http\://central.maven.org/maven2/com/alibaba/dubbo/.error=
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.hy.sdk\:HY-SDK\:pom\:1.0.0 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: null to http\://repo.thinkjoy.cn/content/groups/public/com/hy/sdk/HY-SDK/1.0.0/HY-SDK-1.0.0.pom
+http\://10.254.162.166\:8081/nexus/content/repositories/snapshots/.error=
+http\://10.254.162.166\:8081/nexus/content/repositories/snapshots/.lastUpdated=1490322996419
+http\://repo.qtonecloud.cn/content/groups/public/.lastUpdated=1490322996323
+https\://repo.maven.apache.org/maven2/.lastUpdated=1466494570066
+https\://repo.maven.apache.org/maven2/.error=
+http\://repo.qtonecloud.cn/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1490179296653
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1490179294592

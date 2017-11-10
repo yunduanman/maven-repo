@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 20 10:03:38 GMT+08:00 2017
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.sleepycat\:je\:jar\:5.0.73 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: null to http\://repo.thinkjoy.cn/content/groups/public/com/sleepycat/je/5.0.73/je-5.0.73.jar
+http\://central.maven.org/maven2/com/alibaba/dubbo/.lastUpdated=1489975351222
+http\://central.maven.org/maven2/com/alibaba/dubbo/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1489975418991
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1489975313916

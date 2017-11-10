@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 20 09:20:02 GMT+08:00 2017
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.squareup.okhttp3\:parent\:pom\:3.4.1 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: null to http\://repo.thinkjoy.cn/content/groups/public/com/squareup/okhttp3/parent/3.4.1/parent-3.4.1.pom
+http\://central.maven.org/maven2/com/alibaba/dubbo/.lastUpdated=1489972802125
+http\://central.maven.org/maven2/com/alibaba/dubbo/.error=
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1489972801363
+http\://repo.qtonecloud.cn/content/groups/public/.lastUpdated=1489972802335

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 23 09:42:22 GMT+08:00 2017
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:pom\:2.8.5 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: null to http\://repo.thinkjoy.cn/content/groups/public/com/fasterxml/jackson/core/jackson-core/2.8.5/jackson-core-2.8.5.pom
+http\://central.maven.org/maven2/com/alibaba/dubbo/.lastUpdated=1490233340620
+http\://central.maven.org/maven2/com/alibaba/dubbo/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1490233342980
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1490233338855

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 20 09:20:08 GMT+08:00 2017
+http\://repo.thinkjoy.cn/content/groups/public/.error=Could not transfer artifact com.squareup.okio\:okio-parent\:pom\:1.9.0 from/to repository (http\://repo.thinkjoy.cn/content/groups/public)\: null to http\://repo.thinkjoy.cn/content/groups/public/com/squareup/okio/okio-parent/1.9.0/okio-parent-1.9.0.pom
+http\://central.maven.org/maven2/com/alibaba/dubbo/.lastUpdated=1489972807877
+http\://central.maven.org/maven2/com/alibaba/dubbo/.error=
+default-http\://repo.thinkjoy.cn/content/groups/public/.lastUpdated=1489972804095
+http\://repo.qtonecloud.cn/content/groups/public/.lastUpdated=1489972808040
